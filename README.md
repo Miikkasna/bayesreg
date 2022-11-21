@@ -9,8 +9,11 @@ With 4 parameters, 80 values per parameter and 10 datapoints will reserve about 
 Inspired by:
 https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Regression.ipynb
 
+
 Bayesian vs MLE
+
 ![alt text](lines.png)
 
 Posterior distribution for parameters
+
 ![alt text](parampost.png)
