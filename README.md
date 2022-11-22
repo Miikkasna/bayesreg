@@ -15,6 +15,7 @@ Bayesian vs MLE
 ![alt text](lines.png)
 
 Posterior distribution on prior distribution for parameters
+
 ![alt text](parampostprior.png)
 
 Posterior distribution for regression line
