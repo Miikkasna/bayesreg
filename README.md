@@ -10,8 +10,8 @@ Inspired by:
 https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Regression.ipynb
 
 
-
 Bayesian vs MLE
+
 ![alt text](lines.png)
 
 Posterior distribution on prior distribution for parameters
